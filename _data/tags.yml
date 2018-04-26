@@ -1,0 +1,24 @@
+# Note:
+# If you are using the createtag script, don't leave an blank line at the end of this file.
+# In other words, the last line must be the last tag in the allowed-tags list.
+allowed-tags:
+  - home
+  - faq
+  - templates
+  - articles
+  - collaboration
+  - news
+  - direct_intervention
+  - account_recovery
+  - account_security
+  - anonymity_circumvention
+  - censorship
+  - devices_data_security
+  - documentation
+  - forensics
+  - helpline_procedures
+  - infrastructure
+  - organization_security
+  - phishing_suspicious_email
+  - secure_communications
+  - vulnerabilities_malware
