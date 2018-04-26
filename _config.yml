@@ -12,7 +12,11 @@ site_title: Access Now Digital Security Helpline Public Documentation
 company_name: Access Now
 # this appears in the footer
 
+<<<<<<< HEAD
 github_editme_path: florianap/helpline-community-docs/blob/drafts
+=======
+github_editme_path: florianap/helpline-community-docs/blob/drafts/
+>>>>>>> temp1
 # github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
@@ -114,3 +118,4 @@ description: "Community Documentation for Access Now's Digital Security Helpline
 # needed for sitemap.xml file only
 url: tomjoht.github.io
 baseurl: /community-doc-test
+
