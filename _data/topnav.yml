@@ -12,10 +12,10 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: About
       folderitems:
         - title: Access Now
-          external_url: https://accessnow.org
+          external_url: https://accessnow.org/about-us
         - title: Digital Security Helpline
           external_url: http://accessnow.org/help
     - title: Documentation
