@@ -2,7 +2,7 @@
 title: Forensic Handling of Data on a PC
 keywords: forensics, chain of custody, evidence capture
 last_updated: April 26, 2018
-tags: [forensics, articles]
+tags: [forensics, articles, faq]
 summary: "The Helpline has come into possession of a personal computer with digital evidence."
 sidebar: mydoc_sidebar
 permalink: forensic_handling_data.html

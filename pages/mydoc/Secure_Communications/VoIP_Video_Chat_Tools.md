@@ -2,7 +2,7 @@
 title: Recommendations on VoIP/video chat tools
 keywords: secure communications, voice calls security, video calls security, VoIP
 last_updated: April 26, 2018
-tags: [secure_communications, articles]
+tags: [secure_communications, articles, faq]
 summary: "Client uses Skype, Google Hangouts, or other commercial services for sensitive voice/video chat."
 sidebar: mydoc_sidebar
 permalink: voip_video_chat_tools.html

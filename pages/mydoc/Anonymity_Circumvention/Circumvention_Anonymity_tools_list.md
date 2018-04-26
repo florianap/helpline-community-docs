@@ -2,7 +2,7 @@
 title: Circumvention & Anonimity tools list
 keywords: anonymity, circumvention, VPN, Tor
 last_updated: April 26, 2018
-tags: [anonymity_circumvention, articles]
+tags: [anonymity_circumvention, articles, faq]
 summary: "Trouble opening websites/social media; the website of a client has been blocked and they would like to provide visitors with tools to circumvent the block; the client needs to anonymously browse the internet."
 sidebar: mydoc_sidebar
 permalink: circumvention_anonymity_tools_list.html

@@ -2,7 +2,7 @@
 title: Secure Email Recommendations
 keywords: secure communications, email, email security, email providers
 last_updated: April 26, 2018
-tags: [secure_communications, articles]
+tags: [secure_communications, articles, faq]
 summary: "A client needs recommendations on how to secure their email communications."
 sidebar: mydoc_sidebar
 permalink: secure_email_recommendations.html

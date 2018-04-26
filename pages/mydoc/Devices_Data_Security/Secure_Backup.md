@@ -2,7 +2,7 @@
 title: FAQ - Secure Backup
 keywords: device and data security, backup security, Windows, Linux, Mac, Androi, iOS
 last_updated: April 26, 2018
-tags: [devices_data_security, articles]
+tags: [devices_data_security, articles, faq]
 summary: "The client has sensitive information and he is afraid of loosing them; The client is going to encrypt their device and wants to back up their data in advance; The client's device has crashed and they want to recover the lost data."
 sidebar: mydoc_sidebar
 permalink: secure_backup.html

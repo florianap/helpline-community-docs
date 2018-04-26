@@ -2,7 +2,7 @@
 title: Lightweight Security Assessment
 keywords: organization security, security assessment, questionnaire
 last_updated: April 26, 2018
-tags: [organization_security, articles]
+tags: [organization_security, articles, faq]
 summary: "An organization is requesting assistance on digital security, but their request is not clear; An organization would like to receive help to improve their practices, but we are unsure what their needs are; An organization is asking for a lightweight security assessment; An incident handler is looking for guidance to better evaluate the risks for an organization."
 sidebar: mydoc_sidebar
 permalink: lightweight_security_assessment.html

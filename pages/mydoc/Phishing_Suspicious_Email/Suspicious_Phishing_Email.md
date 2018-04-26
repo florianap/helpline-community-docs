@@ -2,7 +2,7 @@
 title: Client Receives a Suspicious/Phishing Email
 keywords: vulnerabilities, malware, phishing, email
 last_updated: April 26, 2018
-tags: [phishing_suspicious_email, articles]
+tags: [phishing_suspicious_email, articles, faq]
 summary: "The client has received an email with or without an attachment from a known or unknown source."
 sidebar: mydoc_sidebar
 permalink: suspicious_phishing_email.html
